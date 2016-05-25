@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="badi_url_prefix">http://www.wiewarm.ch/api/v1/bad.json/</string>
+    <string name="badi_load_error">Ein Fehler ist aufgetreten beim Laden der Daten</string>
+
+    <string name="badi_grenchen_name">Grenchen, SO</string>
+    <string name="badi_grenchen_id">174</string>
+    <string name="badi_solothurn_name">Solothurn, SO</string>
+    <string name="badi_solothurn_id">69</string>
+    <string name="badi_aarberg_name">Aarberg, AG</string>
+    <string name="badi_aarberg_id">71</string>
+</resources>
